@@ -6,8 +6,6 @@
 - https://mekcraft.com
 - https://harmonydc.xyz
 
-
-
 # Güncelleme
 
 ```bash
@@ -15,3 +13,8 @@
 > Ufak hata sorunları çözülmüştür.
 > Oyun kısmı kaldırılmıştır.
 ```
+
+# Not
+
+- Bu bot Tefo için düzenlenmiştir.
+- ve son v13 bot düzenlemem olucaktır başka bot işlerinizi random insanlara yaptırın.
